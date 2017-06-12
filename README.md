@@ -51,9 +51,9 @@ The repository contains the Semantic OALP extension for Semantic MediaWiki. The 
 * Use Drag & Drop to put the attributes/properties into column and row. The Pivot Table will build up the data.
 * Use Drag & Drop to put the attributes/properties into the Data section.
 * Pivot Table allows for filtering and sorting (by clicking on the icon next to the properties/attributes; see image)</br>
-<img src="https://user-images.githubusercontent.com/11618221/27022441-3facdd50-4f4e-11e7-93f7-8c38dd1546ff.png" alt="Filter / Sort Data" title="Filter / Sort Data" align="middle" height="100"/>
-* Properties, marked as Datatype *Quantity*, which haas a unit will display the corresponding unit in the Pivot Table.</br>
-    <img src="https://user-images.githubusercontent.com/11618221/27022214-469b8a4a-4f4d-11e7-8e17-fc0cf32102af.png" alt="Data in Pivot Table" title="Data in Pivot Table" align="middle" height="500"/>
+<img src="https://user-images.githubusercontent.com/11618221/27022441-3facdd50-4f4e-11e7-93f7-8c38dd1546ff.png" alt="Filter / Sort Data" title="Filter / Sort Data" align="middle" height="100"/></br>
+* Properties, marked as Datatype *Quantity*, which has a unit will display the corresponding unit in the Pivot Table.</br>
+    <img src="https://user-images.githubusercontent.com/11618221/27022214-469b8a4a-4f4d-11e7-8e17-fc0cf32102af.png" alt="Data in Pivot Table" title="Data in Pivot Table" align="middle" height="500"/></br>
     </br></br><img src="https://user-images.githubusercontent.com/11618221/27022217-46a2024e-4f4d-11e7-80d1-c30bf24cfce9.png" alt="Filter / Sort Data" title="Filter / Sort Data" align="middle" height="300"/>
 
 ### Export Data
