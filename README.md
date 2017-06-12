@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/11618221/27022213-469aaaa8-4f4d-11e7-9457-643b86a045e4.png" alt="Semantic OLAP" title="Semantic OLAP" align="middle" height="200"/>
+<img src="https://user-images.githubusercontent.com/11618221/27022213-469aaaa8-4f4d-11e7-9457-643b86a045e4.png" alt="Semantic OLAP" title="Semantic OLAP" align="middle" height="500"/>
 
 
 Semantic OLAP
@@ -44,21 +44,21 @@ The repository contains the Semantic OALP extension for Semantic MediaWiki. The 
 * If no Category or Property is entered, an Error appears. If no Data was retrieved by the Query, then an error appears as well.
 * After entering Category and Property, then Click on *Submit*
 * *Note: Currently are no multiple values for one property supported.*</br>
-     ![Query Data](https://user-images.githubusercontent.com/11618221/27022216-469c44e4-4f4d-11e7-88d6-5e8a3fa8b964.png)
+<img src="https://user-images.githubusercontent.com/11618221/27022216-469c44e4-4f4d-11e7-88d6-5e8a3fa8b964.png" alt="Query Data" title="Query Data" align="middle" height="300"/>
 
 
 ### Analyze Data
 * Use Drag & Drop to put the attributes/properties into column and row. The Pivot Table will build up the data.
 * Use Drag & Drop to put the attributes/properties into the Data section.
-* Pivot Table allows for filtering and sorting (by clicking on the icon next to the properties/attributes; see image)
-![Filter / Sort Data](https://user-images.githubusercontent.com/11618221/27022441-3facdd50-4f4e-11e7-93f7-8c38dd1546ff.png)
+* Pivot Table allows for filtering and sorting (by clicking on the icon next to the properties/attributes; see image)</br>
+<img src="https://user-images.githubusercontent.com/11618221/27022441-3facdd50-4f4e-11e7-93f7-8c38dd1546ff.png" alt="Filter / Sort Data" title="Filter / Sort Data" align="middle" height="100"/>
 * Properties, marked as Datatype *Quantity*, which haas a unit will display the corresponding unit in the Pivot Table.</br>
-    ![Data in Pivot Table](https://user-images.githubusercontent.com/11618221/27022214-469b8a4a-4f4d-11e7-8e17-fc0cf32102af.png)
-    </br></br>![Filter / Sort Data](https://user-images.githubusercontent.com/11618221/27022217-46a2024e-4f4d-11e7-80d1-c30bf24cfce9.png)
+    <img src="https://user-images.githubusercontent.com/11618221/27022214-469b8a4a-4f4d-11e7-8e17-fc0cf32102af.png" alt="Data in Pivot Table" title="Data in Pivot Table" align="middle" height="500"/>
+    </br></br><img src="https://user-images.githubusercontent.com/11618221/27022217-46a2024e-4f4d-11e7-80d1-c30bf24cfce9.png" alt="Filter / Sort Data" title="Filter / Sort Data" align="middle" height="300"/>
 
 ### Export Data
-* Click on the Button *XLS* next to Export to export the current view of the Pivot Table in xls.</br>
-![Export Data in xls](https://user-images.githubusercontent.com/11618221/27022218-46b9c834-4f4d-11e7-9d6a-43dc554bcda7.png)
+* Click on the Button *XLS* next to the Button *Export* to export the current view of the Pivot Table in xls.</br>
+<img src="https://user-images.githubusercontent.com/11618221/27022218-46b9c834-4f4d-11e7-9d6a-43dc554bcda7.png" alt="Export Data in xls" title="Export Data in xls" align="middle" height="400"/>
 
 ## License
 Semantic OLAP is currently under the MIT License.
