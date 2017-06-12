@@ -42,7 +42,8 @@ The repository contains the Semantic OALP extension for Semantic MediaWiki. The 
 * Semantic OLAP supports the creation of queries by using a Form.
 * At least one Category and one Property must be entered. The forms supports the entries by auto-suggestions.
 * If no Category or Property is entered, an Error appears. If no Data was retrieved by the Query, then an error appears as well.
-* After entering Category and Property, then Click on *Submit*</br>
+* After entering Category and Property, then Click on *Submit*
+* *Note: Currently are no multiple values for one property supported.*</br>
      ![Query Data](https://user-images.githubusercontent.com/11618221/27022216-469c44e4-4f4d-11e7-88d6-5e8a3fa8b964.png)
 
 
