@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tobias Weller"
+		]
+	},
+	"semanticolap": "Semantic OLAP",
+	"so-semanticolap": "Semantic OLAP",
+	"so-desc": "Erlaubt die Analyse von SMW Daten mittels einer Pivottabelle",
+	"so-special-title": "Semantic OLAP",
+	"so-special-description": "Erstellen Sie mittels der folgenden Inputzeilen eine Query. Die von der Query gelieferten Daten werden in der Pivottabelle angezeigt. Wählen Sie mindestens eine Kategorie und ein Attribut aus.",
+	"so-button-submit": "Senden",
+	"so-button-selectData": "Wähle Daten aus",
+	"so-category-selection": "'''Wählen Sie mindestens eine Kategorie aus'''",
+	"so-property-selection": "'''Wählen Sie mindestens ein Attribut aus'''",
+	"so-error-message-title": "Fehler",
+	"so-error-message-body": "Bitte wählen Sie mindestens eine Kategorie und ein Attribut aus.</br></br>",
+	"so-noResults-message-title": "Fehler",
+	"so-noResults-message-body": "Die folgende Query lieferte kein Ergebnis zurück."
+}

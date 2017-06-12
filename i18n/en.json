@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tobias Weller"
+		]
+	},
+	"semanticolap": "Semantic OLAP",
+	"so-semanticolap": "Semantic OLAP",
+	"so-desc": "Allows for analyzing SMW Data by using Pivot Table",
+	"so-special-title": "Semantic OLAP",
+	"so-special-description": "Create a Query which retrieves Data for the Pivot Table. Select at least one Cateory and one Property.",
+	"so-button-submit": "Submit",
+	"so-button-selectData": "Select Data",
+	"so-category-selection": "'''Select at least one Category'''",
+	"so-property-selection": "'''Select at least one Property'''",
+	"so-error-message-title": "Error",
+	"so-error-message-body": "Please Select at least one Category and one Property.</br></br>",
+	"so-noResults-message-title": "Error",
+	"so-noResults-message-body": "The following Query retreived no Results."
+}

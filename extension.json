@@ -1,0 +1,60 @@
+{
+	"name": "Semantic OLAP",
+	"version": "1.1",
+	"author": [
+		"[http://www.aifb.kit.edu/web/Tobias_Weller Tobias Weller]"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:Semantic OLAP",
+	"descriptionmsg": "so-desc",
+	"license-name": "MIT",
+	"type": "semantic",
+	"AutoloadClasses": {
+		"SemanticOLAPSpecial": "specials/SemanticOLAPSpecial.php",
+		"SemanticOLAP": "SemanticOLAP.php"
+	},
+	"config": {
+		"BoilerPlateEnableFoo": true
+	},
+	"ExtensionMessagesFiles": {
+		"SemanticOLAPAlias": "SemanticOLAP.i18n.alias.php"
+	},
+	"MessagesDirs": {
+		"SemanticOLAP": [
+			"i18n"
+		]
+	},
+	"ResourceModules": {
+		"ext.SemanticOLAP.special": {
+			"scripts": [
+				"modules/lib/select2/select2.min.js",
+				"modules/lib/sweetalert/sweetalert2.min.js",
+				"modules/lib/react.min.js",
+				"modules/lib/orb-1.0.9/orb.min.js",
+				"modules/ext.semanticOLAP.api.js",
+				"modules/ext.semanticOLAP.js"
+			],
+			"styles": [
+				"modules/ext.semanticOLAP.css",
+				"modules/lib/select2/select2.min.css",
+				"modules/lib/sweetalert/sweetalert2.min.css",
+				"modules/lib/orb-1.0.9/orb.min.css"
+			],
+			"messages": [
+				"so-error-message-title",
+    			"so-error-message-body",
+    			"so-noResults-message-title",
+    			"so-noResults-message-body"
+			],
+			"dependencies": [
+			]
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteExtPath": "SemanticOLAP"
+	},
+	"SpecialPages": {
+		"SemanticOLAP": "SemanticOLAPSpecial"
+	},
+	"manifest_version": 1
+}
